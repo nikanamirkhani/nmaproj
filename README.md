@@ -1,2 +1,2 @@
 # nmaproj
-"Marginal reward processing center" project for NMA 2022
+"Relative reward center" project for NMA 2022
