@@ -1,2 +1,2 @@
 # nmaproj
-"Relative reward center" project for NMA 2022
+"Neural correlates of discounted relative reward processing" project for NMA 2022
